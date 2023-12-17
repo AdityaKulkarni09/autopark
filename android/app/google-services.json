@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264005611904",
+    "project_id": "autopark-c34b2",
+    "storage_bucket": "autopark-c34b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264005611904:android:fac2c793ffa318969e5165",
+        "android_client_info": {
+          "package_name": "com.example.automated_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264005611904-rb43clt7sqp7daj4dgu66n657kggjf22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjq_FnHJaZIek4CjrcBwuMHJFu6ef03g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264005611904-rb43clt7sqp7daj4dgu66n657kggjf22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
